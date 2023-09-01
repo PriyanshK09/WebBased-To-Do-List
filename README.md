@@ -24,6 +24,9 @@ Get started with SimpleTo-Do today and experience the joy of staying organized a
 ## Updates Needed with Time
 
 **Local Storage**: Don't worry about losing your tasks when you close the browser. SimpleTo-Do utilizes local storage to save your tasks, ensuring that they are still there when you return to the website.
+- Completed : 1st September, 2023
+
+Suggest me some new changes!!
 
 ## How to Contribute
 
